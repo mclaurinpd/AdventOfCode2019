@@ -17,7 +17,7 @@ def module_fuel(mass):
 
 def main():
 
-    path = os.getcwd() + "/fuelinput1.txt"
+    path = os.getcwd() + "/day1input.txt"
     file = open(path, "r")
 
     sum = 0
